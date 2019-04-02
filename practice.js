@@ -73,7 +73,7 @@ var groceries= ["apples", "milk", "eggs", "bread"]
 //and goodBoy (a boolean).
 
 //Code Here
-var dog = {name: "jacob", color: "blue", age: 22, goodBoy: true}
+var dog = {name: "", color: "blue", age: 22, goodBoy: true}
 //...access the dog's name from the object and assign it to a
 //variable called devMountainClassPet.
 
